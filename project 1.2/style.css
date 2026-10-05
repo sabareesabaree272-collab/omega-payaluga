@@ -1,0 +1,30 @@
+h1{
+    color: gold;
+    background-color:rgb(55, 54, 54) ;
+    border: solid gold;
+    border-radius: 5px;
+}
+body{
+    background-image: linear-gradient(rgb(31, 1, 31),black);
+}
+.details{
+    padding: 50px;
+    border: solid gold;
+    border-style: groove;
+    border-radius: 30px;
+    margin: 10px;
+    background-color: rgb(36, 34, 34);
+    height:fit-content;
+    width: fit-content;
+    font-size: large;
+    color: gold;
+}
+#mail,#password,#submit,#reset{
+padding: 10px;
+border: solid gold;
+border-style: groove;
+border-radius: 5px;
+margin: 10px;
+background-image: linear-gradient(rgb(4, 4, 54),black);
+color: gold;
+}

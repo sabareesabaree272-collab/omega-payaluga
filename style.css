@@ -5,7 +5,7 @@ h1{
     border-radius: 5px;
 }
 body{
-    background-image: linear-gradient(rgb(49, 3, 49),black);
+    background-image: linear-gradient(rgb(31, 1, 31),black);
 }
 .details{
     padding: 50px;
@@ -14,12 +14,12 @@ body{
     border-radius: 30px;
     margin: 10px;
     background-color: rgb(36, 34, 34);
-    height: 400px;
-    width: fit-content;
+    height: 450px;
+    width: 350;
     font-size: large;
     color: gold;
 }
-#username,#mail,#password,#date,#catagorie,#submit,#reset{
+#username,#mail,#password,#date,#submit,#reset{
 padding: 10px;
 border: solid gold;
 border-style: groove;
@@ -28,13 +28,15 @@ margin: 10px;
 background-image: linear-gradient(rgb(4, 4, 54),black);
 color: gold;
 }
-#male,#female{
+select {
+padding: 10px;
+border: solid gold;
+border-style: groove;
+border-radius: 5px;
+margin: 10px;
 background-image: linear-gradient(rgb(4, 4, 54),black);
 color: gold;
-
 }
-
-
-select{
-    color:black
+#babu{
+    border: solid gold;
 }
